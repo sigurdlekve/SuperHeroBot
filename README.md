@@ -61,11 +61,11 @@ Handled by Webhook:
   
 2. Test a POST request from Postman like shown in the picture below. 
 
-![alt text](Screenshots/postman_example1.jpg "Testing request to postman locally")
+![alt text](https://github.com/sigurdlekve/SuperHeroBot/blob/master/Screenshots/postman_example1.JPG "Testing request to postman locally")
 
 You can also test requests to the webhook deplyed on Heroku like shown in the picture below.
 
-![alt text](Screenshots/postman_example2.jpg "Testing request to postman with Heroku webhook")
+![alt text](https://github.com/sigurdlekve/SuperHeroBot/blob/master/Screenshots/postman_example2.JPG "Testing request to postman with Heroku webhook")
 
 You can test the different intents by changing the value of the key "displayName" to the different intent-names described above. If you can sucessfully get "fulfillmentText" from all of them your dialogflow chatbot should be ready for use. 
 
